@@ -3,7 +3,13 @@
 
 
 # To-do
-- [X] Initial project structure
+- [ ] Project structure
+  - [X] Solution and project
+  - [ ] NuGet specification
+  - [ ] Basic Documentation
+  - [ ] Test project
+  - [ ] Examples
+  - [ ] Advanced Documentation
 - [ ] Read language files
 - [ ] Translate method with basic Interpolation
 - [ ] Configurations
