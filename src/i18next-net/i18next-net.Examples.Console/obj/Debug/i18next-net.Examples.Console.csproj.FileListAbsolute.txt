@@ -1,0 +1,11 @@
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\i18next-net.Examples.Console.exe.config
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\i18next-net.Examples.Console.exe
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\i18next-net.Examples.Console.pdb
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\i18next-net.dll
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\i18next-net.pdb
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\obj\Debug\i18next-net.Examples.Console.csprojResolveAssemblyReference.cache
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\obj\Debug\i18next-net.Examples.Console.csproj.CoreCompileInputs.cache
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\obj\Debug\i18next-net.Examples.Console.exe
+C:\Projetos\Repos\i18next-net\src\i18next-net\i18next-net.Examples.Console\obj\Debug\i18next-net.Examples.Console.pdb

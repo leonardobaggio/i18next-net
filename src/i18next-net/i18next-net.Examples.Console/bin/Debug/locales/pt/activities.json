@@ -1,0 +1,47 @@
+{
+    "CONTENT": {
+        "COMMENT_ADD": "Comentou \"{{text}}\" n{{type}} \"{{title}}\"",
+        "ATTACHMENT_ADD": "Adicionou o anexo {{text}} n{{type}} {{title}}",
+        "UPDATED": "Atualizou detalhes d{{type}} {{title}}",
+        "CREATED": "Criou {{type}} {{title}}",
+        "STATUS_CLOSED": "Finalizou {{type}} {{title}}",
+        "STATUS_OPEN": "Reabriu {{type}} {{title}}",
+        "STATUS_AWAITING_REVIEW": "Enviou {{type}} {{title}} para revisão",
+        "STATUS_READY": "Marcou como pronta para realização {{type}} {{title}}",
+        "STATUS_READY_MEETING": "Marcou uma reunião como Pronta para Realização",
+        "STATUS_PUBLISHED": "Publicou {{type}} {{title}}",
+        "SUBSCRIBER_ADD": "Adicionou um inscrito n{{type}} {{title}}",
+        "SUBSCRIBER_DELETE": "Removeu um inscrito d{{type}} {{title}}",
+        "SUBSCRIBER_UPDATE": "Atualizou os inscritos d{{type}} {{title}}",
+        "SUBSCRIBER_UPDATE_MEETING": "Atualizou os participantes da reunião",
+        "ATTACHMENT_DOWNLOAD": "Fez o download do anexo {{text}} d{{type}} {{title}}",
+        "CREATED_MEETING": "Criou uma nova reunião",
+        "CREATED_MEETINGMINUTE": "Criou uma ata na reunião",
+        "COMMENT_MENTION": "Mencionou {{userName}} no comentário {{text}}",
+        "BLUEBOOK_DOWNLOAD": "Fez o download do BLUEBOOK da reunião"
+    },
+    "Type": {
+        "Task": "a ação",
+        "Pipeline": "o pipeline",
+        "PipelineItem": "a oportunidade",
+        "Meeting": "a reunião",
+        "MeetingAgendaItem": "a pauta",
+        "MeetingMinute": "a ata",
+        "KnowledgeArticle": "o artigo"
+    },
+    "list":{
+        "range": "Intervalo",
+        "from": "De",
+        "to": "Até",
+        "title": "Explorar atividade recente",
+        "workgroups": "Boards & Projetos",
+        "actionUser": "Usuário da Ação",
+        "types": "Tipos",
+        "previous": "Anterior",
+        "next": "Próxima",
+        "loading": "Carregando...",
+        "noTypes": "Nenhum tipo encontrado",
+        "noUsers": "Nenhum usuário encontrado",
+        "noWorkgroups": "Nenhum board/projeto encontrado"
+    }
+}

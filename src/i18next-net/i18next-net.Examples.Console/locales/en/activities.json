@@ -1,0 +1,47 @@
+{
+  "CONTENT": {
+    "COMMENT_ADD": "Commented \"{{text}}\" on {{type}} \"{{title}}\"",
+    "ATTACHMENT_ADD": "Added the attachment to {{type}} {{title}}",
+    "UPDATED": "Updated details for {{type}} {{title}}",
+    "CREATED": "Created a new {{type}} {{title}}",
+    "STATUS_CLOSED": "Closed the {{type}} {{title}}",
+    "STATUS_OPEN": "Changed the status of {{type}} {{title}} to OPEN",
+    "STATUS_AWAITING_REVIEW": "Send {{type}} {{title}} to review",
+    "STATUS_READY": "Set the {{type}} {{title}} as ready",
+    "STATUS_READY_MEETING": "Set the meeting as Ready",
+    "STATUS_PUBLISHED": "Published the {{type}} {{title}}",
+    "SUBSCRIBER_ADD": "Added a subscriber to {{type}} {{title}}",
+    "SUBSCRIBER_DELETE": "Removed a subscriber from {{type}} {{title}}",
+    "SUBSCRIBER_UPDATE": "Updated the subscribers for {{type}} {{title}}",
+    "SUBSCRIBER_UPDATE_MEETING": "Updated the atendees for the meeting",
+    "ATTACHMENT_DOWNLOAD": "Downloaded the attachment {{text}} from {{type}} {{title}}",
+    "CREATED_MEETING": "Created a new meeting",
+    "CREATED_MEETINGMINUTE": "Created a new meeting minute",
+    "COMMENT_MENTION": "Mentioned {{userName}} on the comment {{text}}",
+    "BLUEBOOK_DOWNLOAD": "Downloaded the meeting's BLUEBOOK"
+  },
+    "Type":{
+        "Task": "action",
+        "Pipeline": "pipeline",
+        "PipelineItem": "opportunity",
+        "Meeting": "meeting",
+        "MeetingAgendaItem": "meeting agenda",
+        "MeetingMinute": "meeting minute",
+        "KnowledgeArticle": "article"
+    },
+    "list": {
+        "range": "Range",
+        "from": "From",
+        "to": "To",
+        "title": "Browse recent activity",
+        "workgroups": "Boards & Projects",
+        "actionUser": "Action User",
+        "types": "Types",
+        "previous": "Previous",
+        "next": "Next",
+        "loading": "Loading...",
+        "noTypes": "No types found",
+        "noUsers": "No users found",
+        "noWorkgroups": "No boards/projects found"
+    }
+}

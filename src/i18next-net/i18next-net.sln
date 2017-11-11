@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18next-net", "i18next-net\i18next-net.csproj", "{5293FE76-958A-4C12-92BA-9DB2192F463A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18next-net.Examples.Console", "i18next-net.Examples.Console\i18next-net.Examples.Console.csproj", "{D1FA4705-0614-476E-86FF-326D9A1518BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5293FE76-958A-4C12-92BA-9DB2192F463A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5293FE76-958A-4C12-92BA-9DB2192F463A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5293FE76-958A-4C12-92BA-9DB2192F463A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FA4705-0614-476E-86FF-326D9A1518BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FA4705-0614-476E-86FF-326D9A1518BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FA4705-0614-476E-86FF-326D9A1518BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FA4705-0614-476E-86FF-326D9A1518BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
